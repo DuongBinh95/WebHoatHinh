@@ -1,0 +1,40 @@
+.clearfix{
+    clear: both;
+    overflow: hidden;
+}
+header{
+    padding: 10px;
+    color: red;
+    border: 1px solid aliceblue;
+}
+
+nav ul{
+    padding: 0px;
+    text-align: center;
+}
+nav ul li{
+    display: inline;
+    margin: 20px;
+
+    padding: 2px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+section{
+    margin: 5px;
+    padding: 10px;
+
+}
+article{
+    margin: 5px;
+    padding: 10px;
+}
+#content-left{
+    width: 400px;
+    float: left;
+    margin-bottom: 5px;
+
+
+
+}
